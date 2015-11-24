@@ -1,0 +1,16 @@
+{
+  "name": "coconut-mobile-plugin-zanzibar",
+  "version": "1.0.0",
+  "description": "Plugins added to Coconut Mobile for project specific features",
+  "main": "plugin-bundle.js",
+  "dependencies": {
+    "moment": "^2.10.6",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
