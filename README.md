@@ -1,4 +1,4 @@
-# coconut-mobile-plugin-zanzibar
+# coconut-mobile-plugin-outbreak
 Plugins added to Coconut Mobile for project specific features
 
 Coconut Mobile provides the core features for a Coconut based project. Additional features required by a project are added by a plugin. Find the README file in the _attachments directory for deployment instructions.
