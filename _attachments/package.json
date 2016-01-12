@@ -4,8 +4,12 @@
   "description": "Plugins added to Coconut Mobile for project specific features",
   "main": "plugin-bundle.js",
   "dependencies": {
+    "base-converter": "^1.1.2",
+    "coffeeify": "^2.0.1",
+    "luhn-mod-n": "^1.0.0",
     "moment": "^2.10.6",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.2.2"
   },
   "devDependencies": {},
   "scripts": {
